@@ -1,4 +1,4 @@
-module.exports = [
+[
   "6285283218941@s.whatsapp.net",
   "6281373162282@s.whatsapp.net",
   "6282164398103@s.whatsapp.net",
